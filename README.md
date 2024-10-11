@@ -25,13 +25,14 @@ Language and Ratings: No significant correlation between language and book ratin
 Prolific Authors: Identified Stephen King and P.G. Wodehouse as the most prolific contributors.
 
 **Visualizations**
+
 	• Area Chart: Shows historical trends in book publishing across decades.
 
 	• Bar Charts: Highlight top authors by book count and top-rated books by reviews.
 
 	• Histogram: Displays the distribution of average ratings, with most ratings clustering around 4.0.
 
-  • Pie Chart: Illustrates the prevalence of different languages in the dataset.
+        • Pie Chart: Illustrates the prevalence of different languages in the dataset.
 
 **Data Cleaning & Preprocessing**
 Extensive data cleaning was conducted to handle inconsistencies such as missing values and duplicate entries. This process ensured the accuracy and reliability of the analysis.
