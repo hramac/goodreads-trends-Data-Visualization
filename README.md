@@ -11,28 +11,37 @@ Variables: 12 (including book titles, authors, publication years, language codes
 **Research Questions**
 The project revolves around three key research questions:
 
-What are the observable trends in book publication over time?
-What is the correlation between book ratings and language?
-Which authors have contributed the most books, and how do their ratings compare?
+• What are the observable trends in book publication over time?
+
+• What is the correlation between book ratings and language?
+
+• Which authors have contributed the most books, and how do their ratings compare?
 
 **Key Findings**
 Publication Trends: A 30% increase in book publishing during the late 20th and early 21st centuries, with peaks in specific years.
+
 Language and Ratings: No significant correlation between language and book ratings across 10+ languages, indicating similar reader satisfaction regardless of linguistic demographics.
+
 Prolific Authors: Identified Stephen King and P.G. Wodehouse as the most prolific contributors.
 
 **Visualizations**
-Area Chart: Shows historical trends in book publishing across decades.
-Bar Charts: Highlight top authors by book count and top-rated books by reviews.
-Histogram: Displays the distribution of average ratings, with most ratings clustering around 4.0.
-Pie Chart: Illustrates the prevalence of different languages in the dataset.
+	• Area Chart: Shows historical trends in book publishing across decades.
+
+	• Bar Charts: Highlight top authors by book count and top-rated books by reviews.
+
+	• Histogram: Displays the distribution of average ratings, with most ratings clustering around 4.0.
+
+  • Pie Chart: Illustrates the prevalence of different languages in the dataset.
 
 **Data Cleaning & Preprocessing**
 Extensive data cleaning was conducted to handle inconsistencies such as missing values and duplicate entries. This process ensured the accuracy and reliability of the analysis.
 
 **Tools Used**
-Data Cleaning & Analysis: Python
-Data Visualization: Tableau
-Dataset Source: Kaggle (https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks/data)
+• Data Cleaning & Analysis: Python
+
+• Data Visualization: Tableau
+
+• Dataset Source: Kaggle (https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks/data)
 
 **Challenges**
 The dataset required significant preprocessing, including removing duplicates and standardizing formats.
